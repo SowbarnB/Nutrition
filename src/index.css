@@ -1,0 +1,5 @@
+*{
+    font-family: "Antonio", sans-serif;
+}
+/* Import Splide CSS */
+@import "~@splidejs/splide/dist/css/splide.min.css";
